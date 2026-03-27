@@ -1,2 +1,17 @@
-# buildsketch-privacy
-Privacy Policy and Store Documents for BuildSketch V2 Pro
+# BuildSketch V4 Pro 🎨
+
+تطبيق تصميم احترافي وأنيميشن للمصممين العرب — يعمل كـ PWA.
+
+## الميزات
+- ✏️ مسطح رسم هندسي احترافي
+- 🎬 محرر أنيميشن مع Timeline وKeyframes
+- 🤖 أوامر ذكية بالعربية (نص وصوت)
+- 📄 تصدير PDF احترافي  
+- 🎭 مكتبة أشكال جاهزة
+- 💰 حساب تكلفة المواد
+- 📱 PWA — يعمل offline ويُنصَّب على الهاتف
+
+## رفع على GitHub Pages
+1. ارفع كل الملفات على GitHub
+2. فعّل **Pages** من Settings → Pages → main branch
+3. افتح الرابط في Chrome وثبّته على هاتفك
